@@ -1,0 +1,12 @@
+block_1x1
+(6,11,2)
+greenball_1x1
+(6,1,2)
+flagpole_1x9
+(6,2,2)
+flag_2x1
+(5,2,3)
+castle_5x5
+(10,7,2)
+passblock_1x1
+(13,11,3)
